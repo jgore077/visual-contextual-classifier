@@ -1,7 +1,7 @@
 from distutils.core import setup
 import setuptools
 
-setup(name='Visual-Contextual Classifier',
+setup(name='visual-contextual-classifier',
       version='1.0',
       description='Predicts whether a sentence is a visual sentence or a contextual sentence',
       author='James Gore',
