@@ -2,7 +2,7 @@ from distutils.core import setup
 import setuptools
 
 setup(name='visual-contextual-classifier',
-      version='1.0',
+      version='1.1',
       description='Predicts whether a sentence is a visual sentence or a contextual sentence',
       author='James Gore',
       author_email='james.gore@maine.edu',
